@@ -3,7 +3,7 @@ import NavbarBtn from "../components/NavbarBtn"
 
 function Iceland() {
   return (
-    <div className="flex flex-col justify-end max-sm:gap-4 gap-12 w-full h-screen bg-[url('https://media.cntraveler.com/photos/60596df48f4452dac88c59fe/master/w_1920%2Cc_limit/Reynisfjara-GettyImages-1004089860.jpg')] 
+    <div className="flex flex-col justify-end max-sm:justify-evenly max-sm:gap-4 gap-12 w-full h-screen bg-[url('https://media.cntraveler.com/photos/60596df48f4452dac88c59fe/master/w_1920%2Cc_limit/Reynisfjara-GettyImages-1004089860.jpg')] 
         bg-cover bg-center">
       <Content
         id="2"

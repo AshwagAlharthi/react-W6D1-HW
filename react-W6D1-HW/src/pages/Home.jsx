@@ -3,7 +3,7 @@ import NavbarBtn from "../components/NavbarBtn"
 
 function Home() {
   return (
-    <div className="flex flex-col justify-end max-sm:gap-4 gap-12 w-full h-screen bg-[url('https://media.cntraveler.com/photos/6059636d8f4452dac88c59f4/master/w_1920%2Cc_limit/Denali-GettyImages-1132999090.jpg')] 
+    <div className="flex flex-col justify-end max-sm:justify-evenly max-sm:gap-4 gap-12 w-full h-screen bg-[url('https://media.cntraveler.com/photos/6059636d8f4452dac88c59f4/master/w_1920%2Cc_limit/Denali-GettyImages-1132999090.jpg')] 
       bg-cover bg-center">
       <Content
         id="1"
